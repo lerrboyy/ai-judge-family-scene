@@ -24,7 +24,7 @@ node main.ts
 
 ## Design
 
-The design spec — candidate scenes weighed against the judge's published criteria, and why this one was chosen — is at [`u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2-design.md`](../u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2-design.md) in the local build workspace (not part of this repo).
+The design spec — candidate scenes weighed against the judge's published criteria, and why this one was chosen — lives in the local build workspace alongside the kit.
 
 ## License
 
